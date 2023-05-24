@@ -24,4 +24,6 @@ Estados do GIT
 - git diff -- staged: É a mesma coisa do diff, porém consegue visualizar no momento em que o arquivo está no staged area.
 - git log: é o histórico dos commits
 - git restore: volta o status do arquivo de unmodified para modified
-- git restore --staged: volta da staged area para modfied;    
+- git restore --staged: volta da staged area para modfied;
+- git pull: baixa os todas as modificações contidas no repositório remoto
+- git fetch: verifica as modificações contidas no reposistório remoto, mas não as baixam.
