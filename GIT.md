@@ -30,3 +30,4 @@ Estados do GIT
 - git branch nome_da_branch: cria uma branch com o nome passado por parâmetro.
 - git checkout nome_da_branch_de_destino: muda para branch de destino
 - git branch -a: verifica em qual branch o usuário está
+- git merge "branch que deseja trazer": junta as alterações da branch em que você está e a branch para qual você deseja trazer as alterações.
