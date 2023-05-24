@@ -27,3 +27,5 @@ Estados do GIT
 - git restore --staged: volta da staged area para modfied;
 - git pull: baixa os todas as modificações contidas no repositório remoto
 - git fetch: verifica as modificações contidas no reposistório remoto, mas não as baixam.
+- git branch nome_da_branch: cria uma branch com o nome passado por parâmetro.
+- git checkout nome_da_branch_de_destino: muda para branch de destino
